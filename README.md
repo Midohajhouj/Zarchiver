@@ -1,4 +1,4 @@
-# ZArchiver
+# ZArchiver (prototype)
 
 ZArchiver is a versatile, multi-format compression and decompression tool designed for efficiency and ease of use. It supports a wide range of file formats, making it the perfect choice for managing archives in various formats, including `.gz`, `.xz`, `.bz2`, `.zip`, `.tar`, `.7z`, and `.rar`.
 
